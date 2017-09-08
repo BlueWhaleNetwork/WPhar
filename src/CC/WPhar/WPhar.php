@@ -9,7 +9,7 @@
 namespace CC\WPhar;
 
 
-use BlueWhale\WTask\Config;
+use pocketmine\utils\Config;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\TextFormat;
 
